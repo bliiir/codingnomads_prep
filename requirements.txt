@@ -6,7 +6,7 @@ bdist-mpkg==0.5.0
 binance==0.2
 bonjour-py==0.3
 ccxt==1.10.746
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==3.0.4
 decorator==4.3.0
 Django==1.11.15
